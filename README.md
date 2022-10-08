@@ -7,7 +7,6 @@ Data is on 5878 company bicycles across over 600+ stations. Details such as trip
 whether rider is a member (pays annually) or casual (pay one bike trip at a time) user. The business task is to help
 develop a marketing strategy to convert casual users to members. 
 The files contained inside are:
-![image](logo.png)
 1. capstone-viz.twb  
     - Tableau Dashboard showing final visualizations
 2. data-copy
