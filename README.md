@@ -21,4 +21,3 @@ The files contained inside are:
    - presentation as R markdown file
 7. scratchwork.R
    - Showing some more of the thought process
-   - 
