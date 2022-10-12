@@ -5,7 +5,7 @@
 This is the capstone project I completed to earn my Google Data Analytics certificate. 
 Data is on 5878 company bicycles across over 600+ stations. Details such as trip start, trip end, type of bike, and 
 whether rider is a member (pays annually) or casual (pay one bike trip at a time) user. The business task is to help
-develop a marketing strategy to convert casual users to members. 
+develop a marketing strategy to convert one-time riders into subscribers.
 The files contained inside are:
 1. capstone-viz.twb  
     - Tableau Dashboard showing final visualizations
@@ -21,3 +21,4 @@ The files contained inside are:
    - presentation as R markdown file
 7. scratchwork.R
    - Showing some more of the thought process
+   - 
