@@ -1,6 +1,5 @@
 # Google Data Analytics Capstone Project 1
 ## Selling Annual Bike Subscriptions :bar_chart:
-### Garian Rice
 ### 10/7/2022
 This is the capstone project I completed to earn my Google Data Analytics certificate. 
 Data is on 5878 company bicycles across over 600+ stations. Details such as trip start, trip end, type of bike, and 
